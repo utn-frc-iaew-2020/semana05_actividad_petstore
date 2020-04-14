@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGf8e8C9QxBGpO1u+ZhkFj0XsYpSEwPFBonXMzjblFRrkQr9Q1Eqhq4GdIcAHFqSBoVPkaILjjeIuuOCWLFPZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uriel\\Desktop\\facultad-2020\\5k4\\IAEW\\practico git\\semana05_actividad_petstore\\Petstore\\Petstore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uriel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Uriel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Uriel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Uriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
