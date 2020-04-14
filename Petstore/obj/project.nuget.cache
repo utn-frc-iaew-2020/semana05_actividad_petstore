@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N44MgMx/JMTJTa7Px0fZtx/FKP5HbgDmr3buuGaNVkrrjNQ0Bt6NH6pCgBO4kQgw+kbg4mbYs9h7et7DUrLvOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Disco\\UTN\\2020\\ISWActividad\\semana05_actividad_petstore\\Petstore\\Petstore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
