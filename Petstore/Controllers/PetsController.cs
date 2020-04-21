@@ -40,12 +40,6 @@ namespace Petstore.Controllers
             return listPets;
         }
 
-        [HttpGet("{id}")]
-        public Pets GetById(string id)
-        {
-            return listPets.FirstOrDefault(p => p.id == id);
-        }
-
         [HttpPost]
         public Pets Post(Pets bodyParam)
         {
