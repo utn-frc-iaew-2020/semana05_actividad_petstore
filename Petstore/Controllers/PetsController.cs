@@ -11,7 +11,7 @@ namespace Petstore.Controllers
     [Route("[controller]")]
     public class PetsController : ControllerBase
     {
-        private List<Pets> listPets;
+        private static List<Pets> listPets;
         private readonly ILogger<PetsController> _logger;
 
         public PetsController(ILogger<PetsController> logger)
